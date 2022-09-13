@@ -1,1 +1,1 @@
-# testing
+Weapon per player randomizer
